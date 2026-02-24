@@ -1,0 +1,16 @@
+{
+  "name": "claw-lithic",
+  "version": "1.0.0",
+  "description": "Lithic card lookup skill - finds a card by authorized transaction amount",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lithic": "^0.85.0"
+  }
+}
