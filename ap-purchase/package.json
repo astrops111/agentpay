@@ -1,0 +1,17 @@
+{
+  "name": "ap-purchase",
+  "version": "1.0.0",
+  "description": "Automated Stripe checkout using Lithic virtual cards",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lithic": "^0.85.0",
+    "puppeteer": "^24.0.0"
+  }
+}
